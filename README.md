@@ -6,7 +6,12 @@
 | :--- | :--- |
 | Katendi Kamenga | 2410432 |
 | Racheal Chilufya | 2410503 |
+## Problem 
+Educational institutions store sensitive student data such as personal details, grades, and administrative records that are frequent targets for unauthorized access and data tampering. Without proper database level controls, a system faces three primary risks:
 
+* **Over-privileged access:** Standard users or lecturers having unrestricted read/write access to tables and columns they do not need.
+* **SQL Injection:** Unsanitized user inputs allowing attackers to bypass authentication or manipulate database queries.
+* **Lack of accountability:** Unauthorized changes to critical records (such as student marks) going undetected without a reliable audit trail.
 Demo database: `student_records` (fictional data, created only for this assignment).
 
 ## Setup
