@@ -1,7 +1,5 @@
 # Database Security Prototype 
-# Database Security Prototype
 
-# Database Security Prototype
 
 ## Group Members
 | Name | Student ID |
@@ -10,10 +8,6 @@
 | Racheal Chilufya | 2410503 |
 
 Demo database: `student_records` (fictional data, created only for this assignment).
-
-Demo database: `student_records` (fictional data, created only for this assignment).
-
-Demo database: `student\_records` (fictional data, created only for this assignment).
 
 ## Setup
 
